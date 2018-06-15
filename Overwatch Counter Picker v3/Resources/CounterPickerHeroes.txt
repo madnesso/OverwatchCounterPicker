@@ -1,0 +1,154 @@
+//{ <= Start of New Hero
+//NAMEOFHERO
+//CLASSOFHERO
+//HEROCOUNTERS (Heroes the hero counter)
+//COUNTERHEROES (Heroes who counter the hero)
+//} <= End of New Hero
+//Offense
+{
+Genji
+Offense
+Bastion, Mercy, Hanzo, Widowmaker, Zenyatta, Soldier76, Lucio, Ana, Torbjorn, Junkrat, Reaper, Mccree, Orisa
+Mei, Winston, Zarya, Roadhog, Symmetra, Reinhardt, Pharah
+}
+{
+McCree
+Offense
+Mercy, Tracer, Reaper, Lucio, Zenyatta, Symmetra, Winston, Junkrat, Soldier76, Mei, Pharah, Hanzo, Torbjorn, Reinhardt, Ana
+Widowmaker, Roadhog, Genji, Zarya, Bastion, Orisa, Dva
+}
+{
+Pharah
+Offense
+Junkrat, Reaper, Symmetra, Mercy, Mei, Reinhardt, Lucio, Zarya, Torbjorn, Bastion, Zenyatta, Winston, Genji, Dva, Somra, Ana, Hanzo
+Soldier76, Widowmaker, Roadhog, McCree, Ana, Dva
+}
+{
+Reaper
+Offense
+Winston, Mercy, Roadhog, Zenyatta, Reinhardt, Lucio, Symmetra, Torbjorn, Bastion, Hanzo, Zarya, Dva, Junkrat, Widowmaker, Ana, Tracer, Orisa, Soldier76
+Pharah, McCree, Genji, Mei, Sombra, Tracer, Soldier76
+}
+{
+Soldier76
+Offense
+Pharah, Mercy, Lucio, Zenyatta, Symmetra, Torbjorn, Junkrat, Hanzo, Ana, Sombra, Orisa, Tracer, Winston, Reaper, Zarya, Bastion
+Genji, Reinhardt, Roadhog, McCree, Mei, Widowmaker, Zarya, Dva, Winston, Bastion, Reaper
+}
+{
+Sombra
+Offense
+Reinhardt, Bastion, Mercy, Widowmaker, Tracer, Ana, Zenyatta, Torbjorn, Genji, Lucio, Orisa, Hanzo, Reaper, Junkrat, Roadhog, Dva
+Winston, Symmetra, Mei, Soldier76, Dva, Pharah, McCree, Junkrat, Roadhog, Genji
+}
+{
+Tracer
+Offense
+Mercy, Zenyatta, Hanzo, Widowmaker, Lucio, Bastion, Reinhardt, Ana, Symmetra, Junkrat, Orisa, Dva, Genji, Sombra, Reaper, Zarya, Torbjorn
+McCree, Roadhog, Pharah, Winston, Torbjorn, Reaper, Mei, Sombra, Genji, Dva, Soldier76, Zarya
+}
+//Defense
+{
+Bastion
+Defense
+Winston, Mercy, Reinhardt, Lucio, Symmetra, Torbjorn, Zenyatta, Zarya, Dva, McCree, Orisa, Soldier76, Mei
+Genji, Widowmaker, Hanzo, Junkrat, Tracer, Pharah, Roadhog, Ana, Reaper, Sombra
+}
+{
+Hanzo
+Defense
+Bastion, Mercy, Zenyatta, Torbjorn, Symmetra, Lucio, Junkrat, Ana, Orisa, Sombra
+Genji, Tracer, Winston, Dva, Widowmaker, Roadhog, Reaper, Reinhardt, Soldier76, McCree, Zarya, Pharah
+}
+{
+Junkrat
+Defense
+Bastion, Torbjorn, Mercy, Symmetra, Reinhardt, Lucio, Zenyatta, Dva, Mei, Sombra, Orisa, Ana, Winston
+Pharah, Widowmaker, Soldier76, McCree, Hanzo, Reaper, Genji, Roadhog, Zarya, Tracer, Sombra
+}
+{
+Mei
+Defense
+Genji, Lucio, Dva, Mercy, Reinhardt, Symmetra, Winston, Zenyatta, Roadhog, Soldier76, Ana, Hanzo, Zarya, Tracer, Sombra, Reaper
+Pharah, Widowmaker, McCree, Junkrat, Orisa, Bastion, Reaper
+}
+{
+Torbjorn
+Defense
+Mercy, Lucio, Symmetra, Zenyatta, Tracer, Sombra, Ana
+Widowmaker, Junkrat, Dva, Pharah, Hanzo, Zarya, Reinhardt, Reaper, Soldier76, Bastion, Roadhog, Genji, Ana, Winston, McCree, Mei, Tracer
+}
+{
+Widowmaker
+Defense
+Bastion, Mercy, Zenyatta, Torbjorn, Pharah, Symmetra, Junkrat, Hanzo, McCree, Lucio, Mei, Ana, Soldier76, Orisa, Zarya
+Genji, Dva, Winston, Tracer, Reaper, Reinhardt, Roadhog, Sombra
+}
+//TANK
+{
+Dva
+Tank
+Widowmaker, Mercy, Torbjorn, Hanzo, Winston, Symmetra, Ana, Zenyatta, Sombra, Soldier76
+Mei, Zarya, Reaper, Junkrat, Reinhardt, Bastion, Pharah, Genji, Roadhog, McCree, Tracer
+}
+{
+Orisa
+Tank
+Winston, Torbjorn, Lucio, Reinhardt, McCree, Mercy, zenyatta, Mei
+Genji, Reaper, Widowmaker, Tracer, Bastion, Junkrat, Sombra, Hanzo, Roadhog
+}
+{
+Reinhardt
+Tank
+Mercy, Soldier76, Torbjorn, Lucio, Zenyatta, Genji, Hanzo, Widowmaker, Dva, Ana, WInston, Symmetra, Zarya, Orisa
+Pharah, Bastion, Mei, Reaper, Junkrat, Tracer, Roadhog, Sombra, McCree, Orisa
+}
+{
+Roadhog
+Tank
+Mercy, Winston, Symmetra, Lucio, Zenyatta, Genji, Tracer, Bastion, Hanzo, Soldier76, Pharah, Torbjorn, McCree, Reinhardt, Junkrat, Ana, Widowmaker, Dva, Sombra, Orisa
+Reaper, Mei, Zarya, Dva, Sombra, Orisa
+}
+{
+Winston
+Tank
+Genji, Mercy, Widowmaker, Symmetra, Hanzo, Lucio, Zenyatta, Tracer, Ana, Sombra, Torbjorn, Soldier76
+Reaper, Bastion, Roadhog, Mei, Zarya, Dva, McCree, Pharah, Reinhardt, Orisa, Junkrat, Soldier76
+}
+{
+Zarya
+Tank
+Mercy, Genji, Lucio, Torbjorn, Dva, Winston, Zenyatta, Junkrat, Ana, Roadhog, McCree, Soldier76, Hanzo, Orisa
+Pharah, Reaper, Bastion, Mei, Reinhardt, McCree
+}
+//Support
+{
+Ana
+Support
+Bastion, Mercy, Torbjorn, Lucio, Zenyatta, Pharah, Symmetra, Orisa
+Genji, Tracer, Dva, Winston, Reaper, Widowmaker, Mei, Roadhog, Soldier76, Zarya, Hanzo, Reinhardt, McCree, Sombra, Pharah, Zenyatta, Symmetra, Junkrat
+}
+{
+Lucio
+Support
+Mercy
+Mei, McCree, Roadhog, Pharah, Soldier76, Reaper, Bastion, Tracer, Winston, Zarya, Genji, Dva, Junkrat, Reinhardt, Torbjorn, Hanzo, Widowmaker, Zenyatta, Symmetra, Ana, Sombra, Orisa
+}
+{
+Mercy
+Support
+None
+Tracer, Roadhog, Genji, Reaper, Soldier76, McCree, Widowmaker, Dva, Bastion, Pharah, Winston, Hanzo, Reinhardt, Mei, Zarya, Junkrat, Zenyatta, Torbjorn, Lucio, Symmetra, Ana, Sombra, Orisa
+}
+{
+Symmetra
+Support
+Mercy, Genji, Lucio, Sombra, Ana, Orisa, Tracer
+Pharah, Roadhog, Winston, McCree, Junkrat, Reaper, Soldier76, Widowmaker, Mei, Bastion, Hanzo, Zarya, Torbjorn, Dva, Zenyatta, Tracer, Reinhardt, Ana, Orisa
+}
+{
+Zenyatta
+Support
+Mercy, Lucio, Symmetra, Ana
+Widowmaker, Tracer, Reaper, Genji, McCree, Soldier76, Hanzo, Mei, Roadhog, Winston, Pharah, Zarya, Reinhardt, Bastion, Dva, Junkrat, Torbjorn, Ana, Sombra, Orisa
+}
