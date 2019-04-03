@@ -27,3 +27,12 @@ C:\Users\Shark\Dropbox\Visual studio 2015\Overwatch Counter Picker v3\Overwatch 
 C:\Users\Shark\Dropbox\Visual studio 2015\Overwatch Counter Picker v3\Overwatch Counter Picker v3\obj\Debug\Overwatch Counter Picker v3.csproj.CoreCompileInputs.cache
 C:\Users\Shark\Dropbox\Visual studio 2015\Overwatch Counter Picker v3\Overwatch Counter Picker v3\obj\Debug\Overwatch Counter Picker v3.exe
 C:\Users\Shark\Dropbox\Visual studio 2015\Overwatch Counter Picker v3\Overwatch Counter Picker v3\obj\Debug\Overwatch Counter Picker v3.pdb
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\bin\Debug\Overwatch Counter Picker v3.exe.config
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\bin\Debug\Overwatch Counter Picker v3.exe
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\bin\Debug\Overwatch Counter Picker v3.pdb
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\obj\Debug\Overwatch Counter Picker v3.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\obj\Debug\Overwatch_Counter_Picker_v3.frmCounter.resources
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\obj\Debug\Overwatch_Counter_Picker_v3.Properties.Resources.resources
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\obj\Debug\Overwatch Counter Picker v3.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\obj\Debug\Overwatch Counter Picker v3.exe
+C:\Users\hp\Desktop\OverwatchCounterPicker-master\Overwatch Counter Picker v3\obj\Debug\Overwatch Counter Picker v3.pdb

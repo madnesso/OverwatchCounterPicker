@@ -69,15 +69,16 @@ namespace Overwatch_Counter_Picker_v3.Properties {
         /////} &lt;= End of New Hero
         /////Offense
         ///{
-        ///Genji
+        ///Doomfist
         ///Offense
         ///Bastion, Mercy, Hanzo, Widowmaker, Zenyatta, Soldier76, Lucio, Ana, Torbjorn, Junkrat, Reaper, Mccree, Orisa
         ///Mei, Winston, Zarya, Roadhog, Symmetra, Reinhardt, Pharah
         ///}
         ///{
-        ///McCree
+        ///Ashe
         ///Offense
-        ///Mercy, Tracer, Reaper, Lucio, Zenyatta, Symmetra, Winston, Junkrat, Soldier76, Mei, Pharah, Hanzo, Torbjorn, Reinhardt, An [rest of string was truncated]&quot;;.
+        ///Bastion, Mercy, Hanzo, Widowmaker, Zenyatta, Soldier76, Lucio, Ana, Torbjorn, Junkrat, Reaper, Mccree, Orisa
+        ///Mei, Winsto [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string CounterPickerHeroes {
             get {
@@ -98,9 +99,49 @@ namespace Overwatch_Counter_Picker_v3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Icon_ashe {
+            get {
+                object obj = ResourceManager.GetObject("Icon_ashe", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icon_baptiste {
+            get {
+                object obj = ResourceManager.GetObject("Icon-baptiste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Icon_bastion {
             get {
                 object obj = ResourceManager.GetObject("Icon_bastion", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icon_bridgit {
+            get {
+                object obj = ResourceManager.GetObject("Icon_bridgit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icon_doomfist {
+            get {
+                object obj = ResourceManager.GetObject("Icon_doomfist", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -181,6 +222,16 @@ namespace Overwatch_Counter_Picker_v3.Properties {
         internal static System.Drawing.Bitmap Icon_mercy {
             get {
                 object obj = ResourceManager.GetObject("Icon_mercy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icon_moira {
+            get {
+                object obj = ResourceManager.GetObject("Icon_moira", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -301,6 +352,16 @@ namespace Overwatch_Counter_Picker_v3.Properties {
         internal static System.Drawing.Bitmap Icon_winston {
             get {
                 object obj = ResourceManager.GetObject("Icon_winston", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icon_wrecking {
+            get {
+                object obj = ResourceManager.GetObject("Icon_wrecking", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

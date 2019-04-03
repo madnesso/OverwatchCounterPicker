@@ -121,11 +121,20 @@
   <data name="CounterPickerHeroes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CounterPickerHeroes.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
+  <data name="Icon_doomfist" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-doomfist.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_ashe" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-ashe.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Icon_ana" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-ana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Icon_bastion" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-bastion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_baptiste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-baptiste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Icon_dva" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-dva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -135,6 +144,9 @@
   </data>
   <data name="Icon_hanzo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-hanzo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_symmetra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-symmetra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Icon_junkrat" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-Junkrat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -160,6 +172,9 @@
   <data name="Icon_reaper" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-reaper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Icon_wrecking" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-wrecking.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Icon_reinhardt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-reinhardt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -171,9 +186,6 @@
   </data>
   <data name="Icon_sombra" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-sombra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Icon_symmetra" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Icon-symmetra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Icon_torbjorn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-torbjorn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -192,6 +204,15 @@
   </data>
   <data name="Icon_zenyatta" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon-zenyatta.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_bridgit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-bridgit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_baptiste" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-baptiste.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Icon_moira" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon-moira.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Overwatch_circle_logo_svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Overwatch_circle_logo.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
